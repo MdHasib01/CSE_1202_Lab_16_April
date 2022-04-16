@@ -7,4 +7,4 @@
 5. Show outputs of the variables of the parents function.
 
 ## Constructor
-Do the same thing as the <b>Class Objects Methods</c>. Just do it using constructor.
+Do the same thing as the <b>Class Objects Methods</b>. Just do it using constructor.
