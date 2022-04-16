@@ -1,4 +1,4 @@
-# CSE_1202_Lab(Oalid Sir) 16 March 2022
+# CSE_1202_Lab(Oalid Sir) 16 April 2022
 ## Class Objects Methods
 1. Declare a <b>parents</b> class
 2. Declare 2 variable in that class
