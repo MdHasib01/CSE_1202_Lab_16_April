@@ -18,7 +18,18 @@ int main(){
     expenceObj.inputRent(1000);
     expenceObj.inputExpences(2000);
 
+// এখানে তুমি চাইলে এভাবে না লিখে নিচের মত করে লিখলে ও হবে
     cout << "rent is: " << expenceObj.rent << endl; 
     cout << "other expences is: " << expenceObj.expences << endl;
+
+// এভাবে লিখলে ও হবে
+    cout << "rent is: ";
+    cout << expenceObj.rent << endl; 
+    cout << "other expences is: "; 
+    cout << expenceObj.expences << endl;
+
+// এটা এভাবে লেখার কারন কোড কমানো ঃ)
+
+
     return 0;
 }
